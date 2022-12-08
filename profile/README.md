@@ -2,7 +2,9 @@
 
 # Welcome To -- Yuba Technology！ 
 
-<img width="300px" src="img/logo.svg">
+<!-- 这里GitHub的链接貌似有问题，默认的起始位置为.github/，而不是.github/profile/ -->
+
+<img width="300px" src="profile/img/logo.svg">
 
 ## 团队介绍
 
