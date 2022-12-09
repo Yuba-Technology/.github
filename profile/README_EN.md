@@ -24,13 +24,13 @@
 
 ~~This is what I wanted! Ha ha ha~~
 
-## Team introduction
+## Organization Introduction
 
 **Theory** is when you know everything but nothing works.
 
 **Practice** is when everything works but no one knows why.
 
-**In our team**,theory and practice are combined:
+**In our organization**,theory and practice are combined:
 
 Nothing works and no one knows why.
 
