@@ -1,5 +1,9 @@
 # Welcome To -- Yuba Technology!
 
+[中文版](../README.md)
+
+<img width="300px" src="img/logo.svg">
+
 ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg) ![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)
@@ -19,10 +23,6 @@
 ~~Garish.~~
 
 ~~This is what I wanted! Ha ha ha~~
-
-[中文版](../README.md)
-
-<img width="300px" src="img/logo.svg">
 
 ## Team introduction
 

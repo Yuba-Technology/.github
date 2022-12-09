@@ -1,6 +1,8 @@
-<!-- 这里GitHub的链接貌似有问题，默认的起始位置为.github/，而不是.github/profile/ -->
-
 # 欢迎来到——煜霸科技！ 
+
+[English](profile/README_EN.md)
+
+<img width="300px" src="profile/img/logo.svg">
 
 ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
 
@@ -21,10 +23,6 @@
 ~~花里胡哨的~~
 
 ~~要的就是这个效果~~
-
-[English](profile/README_EN.md)
-
-<img width="300px" src="profile/img/logo.svg">
 
 ## 团队介绍
 
