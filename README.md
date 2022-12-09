@@ -1,7 +1,5 @@
 # 欢迎来到——煜霸科技！ 
 
-<!-- 这里GitHub的链接貌似有问题，默认的起始位置为.github/，而不是.github/profile/ -->
-
 [English](profile/README_EN.md)
 
 <img width="300px" src="profile/img/logo.svg">
