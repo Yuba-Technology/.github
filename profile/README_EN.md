@@ -8,13 +8,9 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg) ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
-![forthebadge](https://forthebadge.com/images/badges/uses-html.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
-
 ![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg) ![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/open-source.svg) ![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
 
