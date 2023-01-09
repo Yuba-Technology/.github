@@ -4,25 +4,7 @@
 
 <img width="300px" src="profile/img/logo.svg">
 
-![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg) ![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg) ![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg) ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg) ![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/open-source.svg) ![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg) ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-~~花里胡哨的~~
-
-~~要的就是这个效果~~
+![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
 ## 组织介绍
 
@@ -44,6 +26,16 @@
 
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)
+
+我们专注于无障碍软件系统的开发。我们坚信科技的进步是为了**更好地造帮助每一个人**，这是科技创新的人文情怀以及精华所在。
+
+1487年，达芬奇绘制出了《维特鲁威人》这幅画，希望借此表达出完美的人体比例。
+
+500多年后，工程师们开发出了《辅助功能》技术，希望借此能让所有人都能成为完美的人。
+
+![Accessibility](profile/img/Accessibility.png)
+
+然而无论你我是不是完美的人，都请大家记住，我们人类也只不过是相互支撑着走完此生。
 
 ### 开源协议
 

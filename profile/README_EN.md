@@ -4,25 +4,7 @@
 
 <img width="300px" src="img/logo.svg">
 
-![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg) ![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg) ![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg) ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg) ![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/open-source.svg) ![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
-
-![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg) ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-~~Garish.~~
-
-~~This is what I wanted! Ha ha ha~~
+![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
 ## Organization Introduction
 
@@ -44,6 +26,16 @@ Our project mainly focuses on HTML (including CSS and JS) and Python.
 
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)
+
+We focus on the development of barrier free software systems. We firmly believe that the progress of science and technology is to **help everyone better**, which is the humanistic feelings and essence of scientific and technological innovation.
+
+In 1487, Leonardo da Vinci drew the painting of the Vitruvian, hoping to express the perfect human proportions.
+
+More than 500 years later, engineers developed the "Auxiliary Function" technology, hoping to make everyone a perfect person.
+
+![Accessibility](img/Accessibility.png)
+
+However, whether we are perfect or not, please remember that we humans are just supporting each other through this life.
 
 ### LICENSE
 
