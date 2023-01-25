@@ -2,7 +2,11 @@
 
 [简体中文](../README.md)
 
-<img width="300px" src="images/logo.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo-night.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo.svg">
+  <img width="300px" alt="Yuba Technology logo" src="profile/images/logo.svg">
+</picture>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
