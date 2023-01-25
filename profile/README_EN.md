@@ -1,8 +1,8 @@
 # Welcome To -- Yuba Technology!
 
-[中文版](../README.md)
+[简体中文](../README.md)
 
-<img width="300px" src="img/logo.svg">
+<img width="300px" src="images/logo.svg">
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
@@ -33,7 +33,7 @@ In 1487, Leonardo da Vinci drew the painting of the Vitruvian, hoping to express
 
 More than 500 years later, engineers developed the "Auxiliary Function" technology, hoping to make everyone a perfect person.
 
-![Accessibility](img/Accessibility.png)
+![Accessibility](images/Accessibility.png)
 
 However, whether we are perfect or not, please remember that we humans are just supporting each other through this life.
 

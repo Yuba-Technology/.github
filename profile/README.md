@@ -2,7 +2,7 @@
 
 [English](profile/README_EN.md)
 
-<img width="300px" src="profile/img/logo.svg">
+<img width="300px" src="profile/images/logo.svg">
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
@@ -33,7 +33,7 @@
 
 500多年后，工程师们开发出了《辅助功能》技术，希望借此能让所有人都能成为完美的人。
 
-![Accessibility](profile/img/Accessibility.png)
+![Accessibility](profile/images/Accessibility.png)
 
 然而无论你我是不是完美的人，都请大家记住，我们人类也只不过是相互支撑着走完此生。
 
